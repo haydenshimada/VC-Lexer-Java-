@@ -1,0 +1,8 @@
+
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ôôÙ»üÿÿÿÿ
++
+java:S1700	"Rename field "ACTION"(ËÚ×
+3
+java:S2386	"Make this member "protected".(ËÚ×
+O
+java:S1118":Add a private constructor to hide the implicit public one.(°ğó8

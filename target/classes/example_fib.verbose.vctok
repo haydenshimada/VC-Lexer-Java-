@@ -1,0 +1,87 @@
+Token: "void", Type: Keyword
+Token: "main", Type: Identifier
+Token: "(", Type: Separator
+Token: ")", Type: Separator
+Token: "{", Type: Separator
+Token: "int", Type: Keyword
+Token: "n", Type: Identifier
+Token: ";", Type: Separator
+Token: "int", Type: Keyword
+Token: "i", Type: Identifier
+Token: ";", Type: Separator
+Token: "int", Type: Keyword
+Token: "current", Type: Identifier
+Token: ";", Type: Separator
+Token: "int", Type: Keyword
+Token: "next", Type: Identifier
+Token: ";", Type: Separator
+Token: "int", Type: Keyword
+Token: "twoaway", Type: Identifier
+Token: ";", Type: Separator
+Token: "putString", Type: Identifier
+Token: "(", Type: Separator
+Token: ""How many Fibonacci numbers do you want to compute? "", Type: String Literal
+Token: ")", Type: Separator
+Token: ";", Type: Separator
+Token: "=", Type: Assignment Operator
+Token: "getInt", Type: Identifier
+Token: "(", Type: Separator
+Token: ")", Type: Separator
+Token: ";", Type: Separator
+Token: "if", Type: Keyword
+Token: "(", Type: Separator
+Token: "<=", Type: Relational Operator
+Token: "0", Type: Integer Literal
+Token: ")", Type: Separator
+Token: "(", Type: Separator
+Token: ""The number should be positive.\n"", Type: String Literal
+Token: ")", Type: Separator
+Token: ";", Type: Separator
+Token: "else", Type: Keyword
+Token: "{", Type: Separator
+Token: "(", Type: Separator
+Token: ""\n\n\tI \t Fibonacci(I) \n\t=====================\n"", Type: String Literal
+Token: ")", Type: Separator
+Token: ";", Type: Separator
+Token: "=", Type: Assignment Operator
+Token: "=", Type: Assignment Operator
+Token: "1", Type: Integer Literal
+Token: ";", Type: Separator
+Token: "for", Type: Keyword
+Token: "(", Type: Separator
+Token: "=", Type: Assignment Operator
+Token: "1", Type: Integer Literal
+Token: ";", Type: Separator
+Token: "<=", Type: Relational Operator
+Token: ";", Type: Separator
+Token: "=", Type: Assignment Operator
+Token: "+", Type: Arithmetic Operator
+Token: "1", Type: Integer Literal
+Token: ")", Type: Separator
+Token: "{", Type: Separator
+Token: "(", Type: Separator
+Token: ""\t"", Type: String Literal
+Token: ")", Type: Separator
+Token: ";", Type: Separator
+Token: "putInt", Type: Identifier
+Token: "(", Type: Separator
+Token: ")", Type: Separator
+Token: ";", Type: Separator
+Token: "(", Type: Separator
+Token: ""\t"", Type: String Literal
+Token: ")", Type: Separator
+Token: ";", Type: Separator
+Token: "putIntLn", Type: Identifier
+Token: "(", Type: Separator
+Token: ")", Type: Separator
+Token: ";", Type: Separator
+Token: "=", Type: Assignment Operator
+Token: "+", Type: Arithmetic Operator
+Token: ";", Type: Separator
+Token: "=", Type: Assignment Operator
+Token: ";", Type: Separator
+Token: "=", Type: Assignment Operator
+Token: ";", Type: Separator
+Token: "}", Type: Separator
+Token: "}", Type: Separator
+Token: "}", Type: Separator

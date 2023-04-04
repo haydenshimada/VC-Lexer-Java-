@@ -1,0 +1,6 @@
+
+t	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(þ²û‡8Á±úÌî0
+3
+java:S2386	"Make this member "protected".(Ÿ¢†Ò
+P
+java:S1118":Add a private constructor to hide the implicit public one.(©¿éô
