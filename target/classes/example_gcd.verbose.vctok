@@ -1,0 +1,68 @@
+[Keyword], spelling = "int", position = 0
+[Identifier], spelling = "i", position = 0
+[Separator], spelling = ";", position = 0
+[Keyword], spelling = "int", position = 1
+[Identifier], spelling = "j", position = 1
+[Separator], spelling = ";", position = 1
+[Keyword], spelling = "int", position = 3
+[Identifier], spelling = "gcd", position = 3
+[Separator], spelling = "(", position = 3
+[Keyword], spelling = "int", position = 3
+[Identifier], spelling = "a", position = 3
+[Separator], spelling = ",", position = 3
+[Keyword], spelling = "int", position = 3
+[Identifier], spelling = "b", position = 3
+[Separator], spelling = ")", position = 3
+[Separator], spelling = "{", position = 3
+[Keyword], spelling = "if", position = 4
+[Separator], spelling = "(", position = 4
+[Identifier], spelling = "b", position = 4
+[Equality Operator], spelling = "==", position = 4
+[Integer Literal], spelling = "0", position = 4
+[Separator], spelling = ")", position = 4
+[Keyword], spelling = "return", position = 5
+[Identifier], spelling = "a", position = 5
+[Separator], spelling = ";", position = 5
+[Keyword], spelling = "else", position = 6
+[Keyword], spelling = "return", position = 7
+[Identifier], spelling = "gcd", position = 7
+[Separator], spelling = "(", position = 7
+[Identifier], spelling = "b", position = 7
+[Separator], spelling = ",", position = 7
+[Identifier], spelling = "a", position = 7
+[Arithmetic Operator], spelling = "-", position = 7
+[Separator], spelling = "(", position = 7
+[Arithmetic Operator], spelling = "/", position = 7
+[Separator], spelling = ")", position = 7
+[Arithmetic Operator], spelling = "*", position = 7
+[Separator], spelling = ")", position = 7
+[Separator], spelling = ";", position = 7
+[Separator], spelling = "}", position = 8
+[Keyword], spelling = "void", position = 9
+[Identifier], spelling = "main", position = 9
+[Separator], spelling = "(", position = 9
+[Separator], spelling = ")", position = 9
+[Separator], spelling = "{", position = 9
+[Identifier], spelling = "i", position = 10
+[Assignment Operator], spelling = "=", position = 10
+[Identifier], spelling = "getInt", position = 10
+[Separator], spelling = "(", position = 10
+[Separator], spelling = ")", position = 10
+[Separator], spelling = ";", position = 10
+[Identifier], spelling = "j", position = 11
+[Assignment Operator], spelling = "=", position = 11
+[Identifier], spelling = "getInt", position = 11
+[Separator], spelling = "(", position = 11
+[Separator], spelling = ")", position = 11
+[Separator], spelling = ";", position = 11
+[Identifier], spelling = "putIntLn", position = 12
+[Separator], spelling = "(", position = 12
+[Identifier], spelling = "gcd", position = 12
+[Separator], spelling = "(", position = 12
+[Identifier], spelling = "i", position = 12
+[Separator], spelling = ",", position = 12
+[Identifier], spelling = "j", position = 12
+[Separator], spelling = ")", position = 12
+[Separator], spelling = ")", position = 12
+[Separator], spelling = ";", position = 12
+[Separator], spelling = "}", position = 13
